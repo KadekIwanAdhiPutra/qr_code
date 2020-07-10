@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import './screens/home_screen.dart';
+import './screens/tampilan_home.dart';
 
 void main() => runApp(MyApp());
 
